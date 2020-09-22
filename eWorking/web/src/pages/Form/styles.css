@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+
+}
+
+.form-container{
+    overflow: hidden;
+}
+
+.images-body{
+    
+    position: static;
+    margin-left: 6px;
+    z-index: 0;
+}
+
+.images-body img{
+    opacity: 1;
+}
+
+.area-form{
+    border-radius: 35px;
+    position: absolute;
+    background-color: 	#e0e0e0;
+    width: 600px;
+    height: 1140px;
+    margin-left: 325px;
+    margin-top: -45px;
+}
+
+form{
+    margin-top: 40px;
+    font-family: 'Roboto';
+}
+
+fieldset{
+    border: 0 none;
+    border-style: none;
+    outline: 0;
+}
+
+legend{
+    margin-left: 35px;
+    font-weight: 700;
+}
+
+.btn-submit{
+    background-color: #32CD32;
+    color: white;
+    font-weight: 700;
+
+    width: 130px;
+    height: 40px;
+
+    border-radius: 5px;
+    border: 0 none;
+    outline: 0;
+    margin-top: 70px;
+    float: right;
+    margin-right: 40px;
+
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+.btn-submit:hover{
+    background-color: #00FF00;
+}
+
+@media (max-width: 1024px){
+    .area-form{
+        margin-left: 160px;
+    }
+}
+
+@media (max-width: 768px){
+    .area-form{
+        margin-left: 66px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 600px){
+    .area-form{
+        margin-left: 65px;
+        width: 450px;
+    }
+}
+
+@media (max-width: 375px){
+    .area-form{
+        width: 100px;
+        margin-left: -20px;
+        margin-top: 20px;
+    }
+}

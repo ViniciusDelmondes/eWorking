@@ -1,0 +1,59 @@
+.professional-item-container{
+    overflow: hidden;
+}
+
+.area-select{
+    margin-left: 265px;
+    margin-top: -80px;
+}
+
+#search-professionals{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    color: white;
+}
+
+.search-button button{
+    background-color: #1E90FF;
+    color: white;
+    font-weight: 700;
+
+    width: 130px;
+    height: 40px;
+
+    border-radius: 5px;
+    border: 0 none;
+    outline: 0;
+    margin-top: 25px;
+    
+    margin-left: 20px;
+
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+.area-profissional-items{
+    margin-top: 25px;
+}
+
+@media (max-width: 1024px){
+    .area-select{
+        margin-left: 110px;
+        margin-top: -80px;
+    }
+}
+
+@media (max-width: 768px){
+    .area-select{
+        margin-left: 13px;
+        margin-top: -80px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 600px){
+    .area-select{
+        margin-left: 12px;
+        margin-top: -80px;
+    }
+}

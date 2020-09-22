@@ -1,0 +1,34 @@
+[0901/030237.894:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.894:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.894:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.894:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0901/030237.956:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3592 not found in process
+[0901/030237.956:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3996 not found in process
+[0901/030237.956:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3824 not found in process
+[0901/030237.956:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 6928 not found in process
+[0901/030237.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3544 not found in process
+[0901/030237.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3828 not found in process
+[0901/030237.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3836 not found in process
+[0901/030237.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3832 not found in process
+[0901/030237.972:ERROR:exception_snapshot_win.cc(99)] thread ID 3812 not found in process
+[0901/030238.799:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030238.799:ERROR:exception_snapshot_win.cc(99)] thread ID 5744 not found in process
+[0901/030238.877:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0901/030238.877:ERROR:exception_snapshot_win.cc(99)] thread ID 3816 not found in process

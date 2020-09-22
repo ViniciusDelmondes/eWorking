@@ -1,0 +1,33 @@
+.select-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.select-container select{
+    margin-top: 10px;
+    width: 505px;
+    border-radius: 10px;
+    height: 30px;
+
+    border: 1px solid grey;
+    outline: 0;
+}
+
+.box-content-header-title{
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 425px) and (max-width: 600px){
+    .select-container select{
+        width: 362px;
+    }
+}
+
+@media (max-width: 375px){
+    .select-container select{
+        width: 319px;
+    }
+}

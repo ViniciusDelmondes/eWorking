@@ -1,0 +1,32 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.input-container label{
+    font-family: 'Roboto';
+}
+
+.input-container input{
+    margin-top: 10px;
+    width: 505px;
+    border-radius: 10px;
+    height: 25px;
+
+    border: 1px solid grey;
+    outline: 0;
+}
+
+@media (min-width: 425px) and (max-width: 600px){
+    .input-container input{
+        width: 358px;
+    }
+}
+
+@media (max-width: 375px){
+    .input-container input{
+        width: 315px;
+    }
+}
