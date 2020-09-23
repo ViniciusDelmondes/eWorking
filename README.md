@@ -2,6 +2,12 @@
 <img src="https://user-images.githubusercontent.com/60788150/94075247-3789ee80-fdd1-11ea-8e88-33ecee4e0823.PNG" width="160">
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/github/languages/count/ViniciusDelmondes/eWorking">  <img src="https://img.shields.io/github/last-commit/ViniciusDelmondes/eWorking"> <img src="https://img.shields.io/github/languages/top/ViniciusDelmondes/eWorking"> <img src="https://img.shields.io/github/repo-size/ViniciusDelmondes/eWorking">
+</p>
+
+</br>
+
 <h2>
 O Projeto:
 </h2>
